@@ -24,3 +24,4 @@ Uma aplicação interativa para cálculo de Índice de Massa Corporal (IMC) que 
 
 ---
 Projeto desenvolvido para consolidar conceitos de manipulação de dados e lógica condicional no curso de ADS. 💻🔥
+Com base no curso de Front-End completo do Matheus Battisti.
